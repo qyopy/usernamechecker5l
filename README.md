@@ -6,5 +6,5 @@
 
 ## OS
 - Linux
-- Windwos
+- Windows
 - Mac
