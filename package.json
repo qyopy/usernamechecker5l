@@ -1,0 +1,29 @@
+{
+  "name": "snapchat-username-checker",
+  "version": "1.0.0",
+  "description": "Checks snapchat usernames from a list inside a text file. Great for getting RARE/OG usernames on snapchat.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qyopy/usernamechecker5l.git"
+  },
+  "keywords": [
+    "snapchat"
+  ],
+  "author": "qyopy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qyopy/usernamechecker5l/issues"
+  },
+  "homepage": "https://github.com/qyopy/usernamechecker5l#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "fs": "*",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
